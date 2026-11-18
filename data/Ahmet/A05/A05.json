@@ -1,0 +1,535 @@
+{
+    "messung": "A05.json",
+    "datenpunkte": [
+        {
+            "sekunde": 0.0,
+            "signal_prozent": 95,
+            "rssi_dbm": -47
+        },
+        {
+            "sekunde": 3.2,
+            "signal_prozent": 94,
+            "rssi_dbm": -47
+        },
+        {
+            "sekunde": 6.4,
+            "signal_prozent": 95,
+            "rssi_dbm": -47
+        },
+        {
+            "sekunde": 9.6,
+            "signal_prozent": 94,
+            "rssi_dbm": -47
+        },
+        {
+            "sekunde": 12.8,
+            "signal_prozent": 94,
+            "rssi_dbm": -47
+        },
+        {
+            "sekunde": 16.0,
+            "signal_prozent": 95,
+            "rssi_dbm": -47
+        },
+        {
+            "sekunde": 19.2,
+            "signal_prozent": 95,
+            "rssi_dbm": -47
+        },
+        {
+            "sekunde": 22.4,
+            "signal_prozent": 95,
+            "rssi_dbm": -47
+        },
+        {
+            "sekunde": 25.6,
+            "signal_prozent": 95,
+            "rssi_dbm": -47
+        },
+        {
+            "sekunde": 28.8,
+            "signal_prozent": 95,
+            "rssi_dbm": -47
+        },
+        {
+            "sekunde": 32.0,
+            "signal_prozent": 95,
+            "rssi_dbm": -47
+        },
+        {
+            "sekunde": 35.2,
+            "signal_prozent": 94,
+            "rssi_dbm": -47
+        },
+        {
+            "sekunde": 38.4,
+            "signal_prozent": 94,
+            "rssi_dbm": -47
+        },
+        {
+            "sekunde": 41.6,
+            "signal_prozent": 94,
+            "rssi_dbm": -47
+        },
+        {
+            "sekunde": 44.8,
+            "signal_prozent": 94,
+            "rssi_dbm": -47
+        },
+        {
+            "sekunde": 48.0,
+            "signal_prozent": 94,
+            "rssi_dbm": -47
+        },
+        {
+            "sekunde": 51.2,
+            "signal_prozent": 94,
+            "rssi_dbm": -47
+        },
+        {
+            "sekunde": 54.4,
+            "signal_prozent": 94,
+            "rssi_dbm": -47
+        },
+        {
+            "sekunde": 57.6,
+            "signal_prozent": 94,
+            "rssi_dbm": -47
+        },
+        {
+            "sekunde": 60.8,
+            "signal_prozent": 94,
+            "rssi_dbm": -47
+        },
+        {
+            "sekunde": 64.0,
+            "signal_prozent": 94,
+            "rssi_dbm": -47
+        },
+        {
+            "sekunde": 67.1,
+            "signal_prozent": 95,
+            "rssi_dbm": -47
+        },
+        {
+            "sekunde": 70.3,
+            "signal_prozent": 95,
+            "rssi_dbm": -47
+        },
+        {
+            "sekunde": 73.5,
+            "signal_prozent": 94,
+            "rssi_dbm": -47
+        },
+        {
+            "sekunde": 76.7,
+            "signal_prozent": 94,
+            "rssi_dbm": -47
+        },
+        {
+            "sekunde": 79.9,
+            "signal_prozent": 94,
+            "rssi_dbm": -47
+        },
+        {
+            "sekunde": 83.1,
+            "signal_prozent": 95,
+            "rssi_dbm": -47
+        },
+        {
+            "sekunde": 86.3,
+            "signal_prozent": 94,
+            "rssi_dbm": -47
+        },
+        {
+            "sekunde": 89.5,
+            "signal_prozent": 94,
+            "rssi_dbm": -47
+        },
+        {
+            "sekunde": 92.7,
+            "signal_prozent": 94,
+            "rssi_dbm": -47
+        },
+        {
+            "sekunde": 95.9,
+            "signal_prozent": 94,
+            "rssi_dbm": -47
+        },
+        {
+            "sekunde": 99.1,
+            "signal_prozent": 94,
+            "rssi_dbm": -47
+        },
+        {
+            "sekunde": 102.3,
+            "signal_prozent": 94,
+            "rssi_dbm": -47
+        },
+        {
+            "sekunde": 105.4,
+            "signal_prozent": 94,
+            "rssi_dbm": -47
+        },
+        {
+            "sekunde": 108.6,
+            "signal_prozent": 94,
+            "rssi_dbm": -47
+        },
+        {
+            "sekunde": 111.8,
+            "signal_prozent": 94,
+            "rssi_dbm": -47
+        },
+        {
+            "sekunde": 115.0,
+            "signal_prozent": 94,
+            "rssi_dbm": -47
+        },
+        {
+            "sekunde": 118.2,
+            "signal_prozent": 94,
+            "rssi_dbm": -47
+        },
+        {
+            "sekunde": 121.4,
+            "signal_prozent": 94,
+            "rssi_dbm": -47
+        },
+        {
+            "sekunde": 124.5,
+            "signal_prozent": 94,
+            "rssi_dbm": -47
+        },
+        {
+            "sekunde": 127.7,
+            "signal_prozent": 95,
+            "rssi_dbm": -47
+        },
+        {
+            "sekunde": 130.9,
+            "signal_prozent": 94,
+            "rssi_dbm": -47
+        },
+        {
+            "sekunde": 134.1,
+            "signal_prozent": 94,
+            "rssi_dbm": -47
+        },
+        {
+            "sekunde": 137.3,
+            "signal_prozent": 94,
+            "rssi_dbm": -40
+        },
+        {
+            "sekunde": 140.5,
+            "signal_prozent": 94,
+            "rssi_dbm": -40
+        },
+        {
+            "sekunde": 143.6,
+            "signal_prozent": 94,
+            "rssi_dbm": -40
+        },
+        {
+            "sekunde": 146.8,
+            "signal_prozent": 94,
+            "rssi_dbm": -40
+        },
+        {
+            "sekunde": 150.0,
+            "signal_prozent": 94,
+            "rssi_dbm": -40
+        },
+        {
+            "sekunde": 153.2,
+            "signal_prozent": 94,
+            "rssi_dbm": -40
+        },
+        {
+            "sekunde": 156.4,
+            "signal_prozent": 94,
+            "rssi_dbm": -40
+        },
+        {
+            "sekunde": 159.6,
+            "signal_prozent": 94,
+            "rssi_dbm": -40
+        },
+        {
+            "sekunde": 162.8,
+            "signal_prozent": 94,
+            "rssi_dbm": -40
+        },
+        {
+            "sekunde": 165.9,
+            "signal_prozent": 94,
+            "rssi_dbm": -40
+        },
+        {
+            "sekunde": 169.1,
+            "signal_prozent": 94,
+            "rssi_dbm": -40
+        },
+        {
+            "sekunde": 172.3,
+            "signal_prozent": 94,
+            "rssi_dbm": -40
+        },
+        {
+            "sekunde": 175.5,
+            "signal_prozent": 94,
+            "rssi_dbm": -40
+        },
+        {
+            "sekunde": 178.7,
+            "signal_prozent": 94,
+            "rssi_dbm": -40
+        },
+        {
+            "sekunde": 181.9,
+            "signal_prozent": 95,
+            "rssi_dbm": -40
+        },
+        {
+            "sekunde": 185.1,
+            "signal_prozent": 95,
+            "rssi_dbm": -40
+        },
+        {
+            "sekunde": 188.3,
+            "signal_prozent": 94,
+            "rssi_dbm": -40
+        },
+        {
+            "sekunde": 191.4,
+            "signal_prozent": 94,
+            "rssi_dbm": -40
+        },
+        {
+            "sekunde": 194.6,
+            "signal_prozent": 94,
+            "rssi_dbm": -40
+        },
+        {
+            "sekunde": 197.8,
+            "signal_prozent": 94,
+            "rssi_dbm": -40
+        },
+        {
+            "sekunde": 201.0,
+            "signal_prozent": 94,
+            "rssi_dbm": -40
+        },
+        {
+            "sekunde": 204.2,
+            "signal_prozent": 94,
+            "rssi_dbm": -40
+        },
+        {
+            "sekunde": 207.4,
+            "signal_prozent": 94,
+            "rssi_dbm": -40
+        },
+        {
+            "sekunde": 210.6,
+            "signal_prozent": 94,
+            "rssi_dbm": -40
+        },
+        {
+            "sekunde": 213.7,
+            "signal_prozent": 94,
+            "rssi_dbm": -40
+        },
+        {
+            "sekunde": 216.9,
+            "signal_prozent": 94,
+            "rssi_dbm": -40
+        },
+        {
+            "sekunde": 220.1,
+            "signal_prozent": 92,
+            "rssi_dbm": -40
+        },
+        {
+            "sekunde": 223.3,
+            "signal_prozent": 92,
+            "rssi_dbm": -40
+        },
+        {
+            "sekunde": 226.5,
+            "signal_prozent": 92,
+            "rssi_dbm": -40
+        },
+        {
+            "sekunde": 229.7,
+            "signal_prozent": 92,
+            "rssi_dbm": -40
+        },
+        {
+            "sekunde": 232.9,
+            "signal_prozent": 92,
+            "rssi_dbm": -40
+        },
+        {
+            "sekunde": 236.0,
+            "signal_prozent": 92,
+            "rssi_dbm": -40
+        },
+        {
+            "sekunde": 239.2,
+            "signal_prozent": 92,
+            "rssi_dbm": -40
+        },
+        {
+            "sekunde": 242.4,
+            "signal_prozent": 92,
+            "rssi_dbm": -40
+        },
+        {
+            "sekunde": 245.6,
+            "signal_prozent": 92,
+            "rssi_dbm": -40
+        },
+        {
+            "sekunde": 248.8,
+            "signal_prozent": 92,
+            "rssi_dbm": -40
+        },
+        {
+            "sekunde": 251.9,
+            "signal_prozent": 92,
+            "rssi_dbm": -40
+        },
+        {
+            "sekunde": 255.1,
+            "signal_prozent": 92,
+            "rssi_dbm": -40
+        },
+        {
+            "sekunde": 258.3,
+            "signal_prozent": 92,
+            "rssi_dbm": -40
+        },
+        {
+            "sekunde": 261.5,
+            "signal_prozent": 92,
+            "rssi_dbm": -40
+        },
+        {
+            "sekunde": 264.7,
+            "signal_prozent": 92,
+            "rssi_dbm": -40
+        },
+        {
+            "sekunde": 267.9,
+            "signal_prozent": 92,
+            "rssi_dbm": -40
+        },
+        {
+            "sekunde": 271.1,
+            "signal_prozent": 92,
+            "rssi_dbm": -40
+        },
+        {
+            "sekunde": 274.3,
+            "signal_prozent": 92,
+            "rssi_dbm": -40
+        },
+        {
+            "sekunde": 277.4,
+            "signal_prozent": 92,
+            "rssi_dbm": -40
+        },
+        {
+            "sekunde": 280.6,
+            "signal_prozent": 92,
+            "rssi_dbm": -40
+        },
+        {
+            "sekunde": 283.8,
+            "signal_prozent": 92,
+            "rssi_dbm": -40
+        },
+        {
+            "sekunde": 287.0,
+            "signal_prozent": 92,
+            "rssi_dbm": -40
+        },
+        {
+            "sekunde": 290.2,
+            "signal_prozent": 92,
+            "rssi_dbm": -40
+        },
+        {
+            "sekunde": 293.3,
+            "signal_prozent": 92,
+            "rssi_dbm": -40
+        },
+        {
+            "sekunde": 296.5,
+            "signal_prozent": 92,
+            "rssi_dbm": -40
+        },
+        {
+            "sekunde": 299.7,
+            "signal_prozent": 92,
+            "rssi_dbm": -40
+        },
+        {
+            "sekunde": 302.9,
+            "signal_prozent": 92,
+            "rssi_dbm": -40
+        },
+        {
+            "sekunde": 306.1,
+            "signal_prozent": 92,
+            "rssi_dbm": -40
+        },
+        {
+            "sekunde": 309.3,
+            "signal_prozent": 92,
+            "rssi_dbm": -40
+        },
+        {
+            "sekunde": 312.4,
+            "signal_prozent": 92,
+            "rssi_dbm": -40
+        },
+        {
+            "sekunde": 315.6,
+            "signal_prozent": 92,
+            "rssi_dbm": -40
+        },
+        {
+            "sekunde": 318.8,
+            "signal_prozent": 92,
+            "rssi_dbm": -40
+        },
+        {
+            "sekunde": 322.1,
+            "signal_prozent": 92,
+            "rssi_dbm": -40
+        },
+        {
+            "sekunde": 325.2,
+            "signal_prozent": 92,
+            "rssi_dbm": -40
+        },
+        {
+            "sekunde": 328.4,
+            "signal_prozent": 92,
+            "rssi_dbm": -40
+        },
+        {
+            "sekunde": 331.6,
+            "signal_prozent": 92,
+            "rssi_dbm": -40
+        },
+        {
+            "sekunde": 334.8,
+            "signal_prozent": 92,
+            "rssi_dbm": -40
+        }
+    ]
+}
